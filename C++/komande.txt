@@ -1,0 +1,10 @@
+edit-cell-value                      ->menjanje vrednosti celije
+format-cell/column-text/number/date  ->menjanje formata celije/kolone
+decimals-cell-number                 ->postavljanje broja decimala za numericku vrednost
+
+save-filename-csv/json               ->cuvanje tabele
+load-filename-csv/json               ->ucitavanje tabele
+
+undo/redo                            ->korak nazad/napred
+stop                                 ->izlazak iz naprednog upravljanja
+exit                                 ->izlazak iz aplikacije

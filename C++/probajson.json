@@ -1,0 +1,13 @@
+{"Table": [
+{"row":"1","column":"1","value":"10","format":"text","decimals":"0"},
+{"row":"1","column":"3","value":"=2 + 3 * 4 - 5 / 6","format":"number","decimals":"0"},
+{"row":"2","column":"2","value":"3","format":"text","decimals":"0"},
+{"row":"3","column":"3","value":"17","format":"text","decimals":"0"},
+{"row":"20","column":"13","value":"1515","format":"number","decimals":"2"},
+{"row":"10","column":"16","value":"17.06.2002.","format":"date","decimals":"0"},
+{"row":"7","column":"8","value":"neki tekst","format":"text","decimals":"0"},
+{"row":"13","column":"11","value":"999899","format":"number","decimals":"0"},
+{"row":"10","column":"18","value":"pozovite","format":"text","decimals":"0"},
+{"row":"35","column":"20","value":"da","format":"text","decimals":"0"},
+{"row":"17","column":"21","value":"neeee","format":"text","decimals":"0"}
+]}
